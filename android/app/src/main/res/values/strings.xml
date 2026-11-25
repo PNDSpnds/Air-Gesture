@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">隔空手控</string>
+    <string name="accessibility_label">隔空手控</string>
+    <string name="accessibility_description">通过前置摄像头识别捏合手势，并代替你在屏幕上滑动/点击，用于免接触操作手机。</string>
+</resources>

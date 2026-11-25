@@ -1,0 +1,13 @@
+Self-test image attribution
+===========================
+
+File: android/app/src/main/assets/selftest_hand.jpg
+Source: Wikimedia Commons - "Hitchhiker's thumb.jpg"
+URL:    https://commons.wikimedia.org/wiki/File:Hitchhiker%27s_thumb.jpg
+Author: Alexis Lours
+License: CC BY 4.0 (Creative Commons Attribution 4.0)
+        https://creativecommons.org/licenses/by/4.0/
+
+The image was resized to max side 640 px and re-encoded as JPEG (quality 85)
+for use as an offline MediaPipe recognition self-test fixture inside the app.
+No other modifications were made.
